@@ -3,7 +3,7 @@
 def memoria():
     import random
     import time
-    print("Cuantos numeros desea memorizar")
+    print("Cuantos numeros desea memorizar, tendras 5 segundos para esto")
     list = []
     n = int(input())
     for i in range(n):
