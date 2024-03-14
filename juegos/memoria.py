@@ -25,4 +25,3 @@ def memoria():
     time.sleep(2)
     print('Secuencia original:', list)
     print('Tu respuesta:', l2)
-memoria()
