@@ -1,7 +1,8 @@
-import random
-import time
+
 """n es la cantidad de numeros a memorizar"""
 def memoria():
+    import random
+    import time
     print("Cuantos numeros desea memorizar")
     list = []
     n = int(input())
