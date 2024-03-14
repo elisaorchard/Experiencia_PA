@@ -1,9 +1,8 @@
 import time
 def tiempo():
     for i in range(3):
-        print(".",end="")
+        print(".",end="\n")
         time.sleep(0.3)
-    print("\n")
 
 from random import randint
 def juego_del_dado():
